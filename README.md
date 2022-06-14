@@ -10,7 +10,7 @@ Full Stack Software Developer
 * 💎  I have a background in Sport Business & Customer Service
 * 🧭  Keen gig-goer & like to stay fit: bouldering, swimming, running etc.
 * 🏅  Next Challange is to train for triathlon 
-* 💻  Expanding my knoweldge on TypeScript & Bootstrap 
+* 💻  Currently learning TypeScript & Bootstrap 
 
 ### Dev Skills
 
