@@ -5,7 +5,7 @@ Full Stack Software Developer
 -----------------------------
 
 * 🌍  Based in Leeds, UK
-* 🖥️  See my portfolio at [Troopl](http://troopl.com/)
+* 🖥️  See my portfolio at [Troopl](https://troopl.com/pointwolfanj)
 * 📫  You can contact me at [Anojan31@gmail.com](mailto:Anojan31@gmail.com)
 * 💎  I have a background in Sport Business & Customer Service
 * 🧭  Keen gig-goer & like to stay fit: bouldering, swimming, running etc.
