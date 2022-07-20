@@ -4,7 +4,7 @@ Hi 👋 My name is Anojan
 Full Stack Software Developer
 -----------------------------
 
-* 🌍  Looking for entry/junior level software development roles 
+* 🌍  Working towards entry/junior level software development roles 
 * 🖥️  See my portfolio at [Troopl](https://troopl.com/pointwolfanj)
 * 📫  You can contact me at [Anojan31@gmail.com](mailto:Anojan31@gmail.com)
 * 💎  I have a background in Sport Business & Customer Service
